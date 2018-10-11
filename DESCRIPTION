@@ -1,0 +1,15 @@
+Package: oneway
+Type: Package
+Title: One-way Analysis of Variance
+Version: 0.1.0
+Date: 2018-10-9
+Authors@R: person("Kelly", "Jamrog", role = c("aut", "cre"), email = "kjamrog@wesleyan.edu")
+Description: This package assesses group differences using parametric
+    one-way analysis of variance.
+LazyData: true
+License: GLP-3
+BugReports: https://github.com/kelly-jamrog/oneway/issues
+RoxygenNote: 6.1.0
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
